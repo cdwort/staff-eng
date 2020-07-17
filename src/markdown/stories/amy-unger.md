@@ -49,19 +49,15 @@ But it also means pushing forward discussions about what kinds of risk are worth
 
 Success looks like seeing conversations about timeline and priorities between ICs start from a shared background. There's no major blow ups about "How could you suggest we ship this hack?" Instead, folks can talk about technical choices through a business lens: "I know we're currently low on staff compared to our product ambitions, but is this the right place to simplify?" Success looks like a team with a shared goal for the quality and resiliency of code that we're writing. Success also looks like other ICs feeling confident in advocating for changes, since they see our team making technical decisions with a consistent goal in mind. When I talk with ICs in 1:1s, there should be no "I'm not sure why I'm doing X" when it comes to code, infrastructure and incidents. 
 
-Finally, success looks like my management chain clearly understanding the particular risks we're taking on. All of the architectural decisions a team makes will be wrong, eventually. Whether technology changes, our customer base changes or the product itself changes, it's only a matter of time before we regret those big choices. The key is understanding what bets we're making and how long we think before we'll need to revisit them.
-Risk, embracing being wrong. 
+Next, I am successful my management chain clearly understanding the particular risks we're taking on. All of the architectural decisions a team makes will be wrong, eventually. Whether technology changes, our customer base changes or the product itself changes, it's only a matter of time before we regret those big choices. The key is understanding what bets we're making and how long we think before we'll need to revisit them.
 
+Architecture in a large enterprise is a lot about risk management. A large org has a lot of existing momentum in the market and naturally becomes more cautious. I only have a few places where I can advocate for higher-risk bets and those bets are going to be far lower risk than at a start up. While I need to embrace the fact that our decisions will be wrong, I need to be able to speak to the ways in which we will likely be wrong, when we'll know and whar our mitigation strategy will be.
 
-* NOTE: I kinda don't like the rest of this section even if it's true *
-
-Second, I am successful if I'm aligned with my manager *and* course correcting.
-
-In general, I set my weekly priorities based off of the areas where our ICs seem least able to align with our organization's direction. That being said, sometimes my manager needs my focus elsewhere. And even less frequently, I need to spend some time course correcting my manager's approach. 
+Third, I am successful if I'm saying the right "No"s to my manager. If the ICs that report to my managers end up feeling like "I told you so" or "We knew this was a bad idea" and that wasn't surfaced for a discussion, that's on me. As a staff engineer, I have the responsibility to course correct my manager when we're over-committed or commiting to the wrong thing.
 
 Finally, I'm successful if my organization has a healthy engineering culture.
 
-No one person owns culture, but that doesn't mean we all don't equally share the burden of building a world-class engineering organization. 
+No one person owns culture, but that doesn't mean we all don't equally share the burden of building a world-class engineering organization.
 
 **_How do you spend your time day-to-day?_**
 
