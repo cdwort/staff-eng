@@ -55,13 +55,11 @@ Architecture in a large enterprise is a lot about risk management. A large org h
 
 Third, I am successful if I'm saying the right "No"s to my manager. If the ICs that report to my managers end up feeling like "I told you so" or "We knew this was a bad idea" and that wasn't surfaced for a discussion, that's on me. As a staff engineer, I have the responsibility to course correct my manager when we're over-committed or commiting to the wrong thing.
 
-Finally, I'm successful if my organization has a healthy engineering culture.
-
-No one person owns culture, but that doesn't mean we all don't equally share the burden of building a world-class engineering organization.
+Finally, I'm successful if my organization has a healthy engineering culture. No one person owns culture, but that doesn't mean we all don't equally share the burden of building a world-class engineering organization.
 
 **_How do you spend your time day-to-day?_**
 
-I spend my time split between the four following functions.
+While I do write code from time-to-time, it's only after I've delivered on my obligations on these four functions.
 
 *Information gathering* - In order to help my team understand the context within which we're building a thing, I need a lot of information. I almost unfailingly start my day with a list of longer emails and docs of all varieties to digest. I also spend a fair amount of time in cross-org chats with assorted managers & ICs, whose purpose is a combination of information gathering and the coaching I mention below. 
 
@@ -75,13 +73,13 @@ I also end up being the [RACI](https://en.wikipedia.org/wiki/Responsibility_assi
 
 **_Do you spend time advocating for technology, practice, process or architectural change? What’s something you’ve advocated for? Can you share a story of influencing your organization?_**
 
-As someone who's role is directly tied to execution, architectural change is my responsibility. Team members may be the ones pushing for it, but my role is where the rubber meets the road in terms of finding out how to move forward. Who needs to sign off. 
+As someone who's role is directly tied to execution, architectural change is my responsibility. Team members may be the ones pushing for it, but my role is where the rubber meets the road in terms of finding out how to move forward. Who needs to sign off.
 
 I have advocated for technology changes and process changes as I see fit, but those are more occasional passion projects than things I feel fall directly under my responsibilities as someone who most closely fit's Will's "Team Lead" archetype.
 
 **_How do you keep in touch with how things really work as you spend less time on hands-on development?_**
 
-This is something I struggle with and has been my goal for the year to work on. I'm starting with saying "I don't know" or "I'm not sure, let me check" a lot more. 
+As someone who still does write code occasionally, this is something I struggle with. Our codebase shifts underneath me constantly, in ways I often don't see. It has been my goal for the year to make sure I say "I'm not sure, let me check" even when I feel confident.
 
 **_How have you sponsored other engineers? Is sponsoring other engineers an important aspect of your role?_**
 
